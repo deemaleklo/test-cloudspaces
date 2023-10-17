@@ -1,7 +1,1 @@
-<<<<<<< Updated upstream
-gittest
-=======
-newtest12345
-
-appended during tests
->>>>>>> Stashed changes
+12345
