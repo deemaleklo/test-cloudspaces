@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 12345
 append
+=======
+werqwerewqr
+>>>>>>> 41d6642fa7bc67e32f7c71a3509daaaf0c06ba5c
